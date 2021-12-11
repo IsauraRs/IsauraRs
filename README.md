@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaura Ramírez Salazar</h1>
-- 🔭 I’m currently working on [an adquisition system for an helical turbine](https://github.com/IsauraRs/Turbina.git)
+- 🔭 I’m currently working on [an acquisition system for an helical turbine](https://github.com/IsauraRs/Turbina.git)
 
 - 🌱 I’m currently learning **Data Science and LabView**
 
