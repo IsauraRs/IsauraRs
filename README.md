@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/isaurars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="isaurars" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/isaura-ramírez-salazar-6015431b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isaura-ramírez-salazar-6015431b9" height="30" width="40" /></a>
-<a href="https://instagram.com/isa_rs29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isa_rs29" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isaura-ram%C3%ADrez-salazar-6015431b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isaura-ramírez-salazar-6015431b9" height="30" width="40" /></a>
+<a href="https://www.instagram.com/isa_rs29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isa_rs29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
