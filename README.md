@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isaura Ramírez Salazar</h1>
+
 - 🔭 I’m currently working on [an acquisition system for an helical turbine](https://github.com/IsauraRs/Turbina.git)
-- 🌱 I’m currently learning **Data Science and Backend **
+
+- 🌱 I’m currently learning **Data Science and Backend**
+
 - 👨‍💻 All of my projects are available at [IsauraRs](https://github.com/IsauraRs)
+
 - 📫 How to reach me **isaurars97@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaurars&show_icons=true&theme=radical&locale=en" alt="isaurars" /></p>
